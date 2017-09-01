@@ -1,0 +1,27 @@
+[submodule "euroscipy-2017"]
+	path = euroscipy-2017
+	url = https://github.com/glemaitre/euroscipy-2017
+[submodule "euroscipy-numpy-tutorial"]
+	path = euroscipy-numpy-tutorial
+	url = https://github.com/gertingold/euroscipy-numpy-tutorial/
+[submodule "euroscipy-git-tutorial"]
+	path = euroscipy-git-tutorial
+	url = https://github.com/gertingold/euroscipy-git-tutorial
+[submodule "scikit-image-euroscipy2017"]
+	path = scikit-image-euroscipy2017
+	url = https://github.com/emmanuelle/scikit-image-euroscipy2017
+[submodule "euroscipy-sympy-tutorial"]
+	path = euroscipy-sympy-tutorial
+	url = https://github.com/leosartaj/euroscipy-sympy-tutorial
+[submodule "euroscipy_2017_sklearn"]
+	path = euroscipy_2017_sklearn
+	url = https://github.com/ogrisel/euroscipy_2017_sklearn
+[submodule "euroscipy-2017-networkx"]
+	path = euroscipy-2017-networkx
+	url = https://github.com/MridulS/euroscipy-2017-networkx
+[submodule "pandas-tutorial"]
+	path = pandas-tutorial
+	url = https://github.com/jorisvandenbossche/pandas-tutorial
+[submodule "deep-learning-keras-tensorflow"]
+	path = deep-learning-keras-tensorflow
+	url = https://github.com/leriomaggio/deep-learning-keras-tensorflow
